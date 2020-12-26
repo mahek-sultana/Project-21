@@ -1,2 +1,2 @@
-# Project-21
-bullet hits the wall
+# collisionAlgorithm
+Algorithm to detect collision between two objects
